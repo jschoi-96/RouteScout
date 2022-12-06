@@ -1,0 +1,21 @@
+{
+  "trip": {
+    "id": "String",
+    "userId": "String",
+    "tripName": "String",
+    "description": "String",
+    "destinations": [
+      {
+        "id": "String",
+        "order": "Number",
+        "address": "String",
+        "name": "String",
+        "imageUrl": "String",
+        "dateArriving": "Date",
+        "notes": "String",
+        "lat": "Number",
+        "lng": "Number"
+      }
+    ]
+  }
+}
